@@ -23,7 +23,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.nguyenkhiemit:LoadingIndicatorView:Tag'
+	        implementation 'com.github.nguyenkhiemit:LoadingIndicatorView:0.1.0'
 	}
 
 Usage
